@@ -1,0 +1,40 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "homepage": "https://anuragcin74.github.io/CustomerTrans",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "gh-deploy": "^0.2.3",
+    "gh-pages": "^2.1.1",
+    "react": "^16.9.0",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-dom": "^16.9.0",
+    "reactstrap": "^8.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.15.1",
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
