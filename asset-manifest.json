@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CustomerTrans/static/css/main.ba7d41f2.chunk.css",
+    "main.js": "/CustomerTrans/static/js/main.3ef9ebfe.chunk.js",
+    "main.js.map": "/CustomerTrans/static/js/main.3ef9ebfe.chunk.js.map",
+    "runtime-main.js": "/CustomerTrans/static/js/runtime-main.36773ba7.js",
+    "runtime-main.js.map": "/CustomerTrans/static/js/runtime-main.36773ba7.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/CustomerTrans/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.36874bfb.chunk.js": "/CustomerTrans/static/js/2.36874bfb.chunk.js",
+    "static/js/2.36874bfb.chunk.js.map": "/CustomerTrans/static/js/2.36874bfb.chunk.js.map",
+    "index.html": "/CustomerTrans/index.html",
+    "precache-manifest.0cc6f0418b2c3626a64fa16a2efc774b.js": "/CustomerTrans/precache-manifest.0cc6f0418b2c3626a64fa16a2efc774b.js",
+    "service-worker.js": "/CustomerTrans/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/CustomerTrans/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.ba7d41f2.chunk.css.map": "/CustomerTrans/static/css/main.ba7d41f2.chunk.css.map",
+    "static/js/2.36874bfb.chunk.js.LICENSE": "/CustomerTrans/static/js/2.36874bfb.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36773ba7.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.36874bfb.chunk.js",
+    "static/css/main.ba7d41f2.chunk.css",
+    "static/js/main.3ef9ebfe.chunk.js"
+  ]
+}
