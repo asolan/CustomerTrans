@@ -11,11 +11,11 @@ class App extends Component {
     this.state = {
       transaction:[
         {firstName:"John", lastName:"Doe", store:"Walmart", amountSpend:120, date: "12/1/2019"}, 
-        {firstName:"John", lastName:"Doe", store:"Taget", amounSpend:50, date: "12/1/2019"},
+        {firstName:"John", lastName:"Doe", store:"Taget", amountSpend:50, date: "12/1/2019"},
         {firstName:"John", lastName:"Doe", store:"StainMart", amountSpend:90, date: "12/1/2019"},
 
          {firstName:"John", lastName:"Doe", store:"Walmart", amountSpend:120, date: "11/1/2019"}, 
-        {firstName:"John", lastName:"Doe", store:"Taget", amounSpend:70, date: "11/1/2019"},
+        {firstName:"John", lastName:"Doe", store:"Taget", amountSpend:70, date: "11/1/2019"},
         {firstName:"John", lastName:"Doe", store:"StainMart", amountSpend:50, date: "11/1/2019"},
 
         {firstName:"Micheal", lastName:"Taylor", store:"Walmart", amountSpend:120, date: "11/15/2019"},{firstName:"Micheal", lastName:"Taylor", store:"Target", amountSpend:60, date: "11/16/2019"},
